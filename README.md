@@ -1,6 +1,6 @@
 # DM Tools
 
-[[TOC]]
+[TOC]
 
 ## Description
 

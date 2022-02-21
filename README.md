@@ -1,6 +1,10 @@
 # DM Tools
 
-[TOC]
+##### Table of Contents  
+- [DM Tools](#dm-tools)  
+- [Description](#description)
+- [Trello Board](#trello-board)  
+- [Requirements](#requirements)  
 
 ## Description
 

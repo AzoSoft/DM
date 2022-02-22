@@ -1,5 +1,8 @@
 import sqlite3
 import constants
 
-def authenticate():
-    
+def register_user():
+    pass
+
+def login_user():
+    pass
